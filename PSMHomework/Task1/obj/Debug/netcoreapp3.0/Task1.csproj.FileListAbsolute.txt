@@ -1,0 +1,11 @@
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.exe
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.deps.json
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.runtimeconfig.json
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.runtimeconfig.dev.json
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.dll
+C:\Study\PJATK\PSM\PSMHomework\Task1\bin\Debug\netcoreapp3.0\Task1.pdb
+C:\Study\PJATK\PSM\PSMHomework\Task1\obj\Debug\netcoreapp3.0\Task1.csprojAssemblyReference.cache
+C:\Study\PJATK\PSM\PSMHomework\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfoInputs.cache
+C:\Study\PJATK\PSM\PSMHomework\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfo.cs
+C:\Study\PJATK\PSM\PSMHomework\Task1\obj\Debug\netcoreapp3.0\Task1.dll
+C:\Study\PJATK\PSM\PSMHomework\Task1\obj\Debug\netcoreapp3.0\Task1.pdb
